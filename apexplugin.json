@@ -19,9 +19,9 @@
     "url" : "https://github.com/mohamedzebib/mzebib_captcha_v2"
   },
   "oracle" : {
-    "versions" : ["11.2.0.4", "12.1.0.2"],
+    "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
-      "versions" : ["4.2.0", "5.0.0"],
+      "versions" : ["4.2.0","5.0.0","5.0.1"],
       "plugin" : {
         "internalName" : "mzebib",
         "type" : "Item Plug-in",
