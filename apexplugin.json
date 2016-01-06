@@ -3,9 +3,9 @@
   "version" : "1.0",
   "description" : "Easy to use Google noCaptcha reCaptcha v2 plugin. Just create a new item using the plugin inside your login page. The use of this plugin will give you a mean to verify that the user connecting to your application is not a robot. This is essentially useful for admin access or regular access to an application with sensitive data. This plugin supports multiple language applications. The zip file contains the plugin in APEX version 4.2 and APEX 5.0. Choose the version that suits your APEX installation.",
   "keywords" : ["Oracle","Apex","plugin","captcha","reCaptcha","noCaptcha","Security","Spam","robot"],
-  "homepage" : "https://github.com/mohamedzebib/my-oracle-apex-plugins.git",
+  "homepage" : "https://github.com/mohamedzebib/mzebib_captcha_v2/issues",
   "bugs" : {
-    "url" : "https://github.com/mohamedzebib/my-oracle-apex-plugins.git/issues",
+    "url" : "https://github.com/mohamedzebib/mzebib_captcha_v2/issues",
     "email" : "mzebib@gmail.com"
   },
   "license" : "MIT",
@@ -16,7 +16,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/mohamedzebib/my-oracle-apex-plugins.git"
+    "url" : "https://github.com/mohamedzebib/mzebib_captcha_v2"
   },
   "oracle" : {
     "versions" : ["11g", "12c"],
@@ -26,7 +26,7 @@
         "internalName" : "mzebib",
         "type" : "Item Plug-in",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=11169",
-        "previewImage" : ""
+        "previewImage" : "https://github.com/mohamedzebib/mzebib_captcha_v2/Captcha_APEX_5.0_2.jpg"
       }
     }
   }
