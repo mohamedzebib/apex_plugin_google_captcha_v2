@@ -24,7 +24,7 @@
   "oracle" : {
     "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
-      "versions" : ["4.2.0","5.0.0","5.0.1"],
+      "versions" : ["4.2.0","5.0.0"],
       "plugin" : {
         "internalName" : "ca.mzebib.captcha2",
         "type" : "item",
