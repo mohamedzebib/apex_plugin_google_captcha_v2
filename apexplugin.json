@@ -1,6 +1,7 @@
 {
   "name" : "Oracle Apex Plugin for google reCaptcha Version 2",
   "version" : "1.0",
+
   "description" : "Easy to use Google noCaptcha reCaptcha v2 plugin. Just create a new item using the plugin inside your login page. The use of this plugin will give you a mean to verify that the user connecting to your application is not a robot. This is essentially useful for admin access or regular access to an application with sensitive data. This plugin supports multiple language applications. The zip file contains the plugin in APEX version 4.2 and APEX 5.0. Choose the version that suits your APEX installation.",
   "keywords" : ["Oracle","Apex","plugin","captcha","reCaptcha","noCaptcha","Security","Spam","robot"],
   "homepage" : "https://github.com/mohamedzebib/mzebib_apex_plugin_captcha_v2/issues",
@@ -10,8 +11,10 @@
   },
   "license" : "MIT",
   "author" : {
+
     "name" : "Mohamed Zebib",
     "email" : "mzebib@gmail.com",
+
     "url" : "https://apex.oracle.com/pls/apex/f?p=11169"
   },
   "repository" : {
@@ -23,7 +26,7 @@
     "apex" : {
       "versions" : ["4.2.0","5.0.0","5.0.1"],
       "plugin" : {
-        "internalName" : "mzebib",
+        "internalName" : "ca.mzebib.captcha2",
         "type" : "item",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=11169",
         "previewImage" : "https://github.com/mohamedzebib/mzebib_apex_plugin_captcha_v2/Captcha_APEX_5.0_2.jpg"
